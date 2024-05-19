@@ -1,3 +1,0 @@
-if game.PlaceId == 4779613061 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/CorruptScripts1337/CorruptScripts/main/SouthLondon2"))()
-end
